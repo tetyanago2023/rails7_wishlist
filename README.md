@@ -4,4 +4,4 @@
 
 * Rails version 7.1.2
 
-* 
+* React version 18.2.0
